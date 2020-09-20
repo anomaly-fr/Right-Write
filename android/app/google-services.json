@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554206254974",
+    "firebase_url": "https://custom-dc5bd.firebaseio.com",
+    "project_id": "custom-dc5bd",
+    "storage_bucket": "custom-dc5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554206254974:android:ebeacf4ebf2877e833c52f",
+        "android_client_info": {
+          "package_name": "com.custom.customwriter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554206254974-t2ppuhlkgfkcnh7v115cbkaii467arsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApG3PYomCDGzqTYKESAvL8ASv8zum8gPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554206254974-t2ppuhlkgfkcnh7v115cbkaii467arsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
