@@ -1,2 +1,2 @@
 # Right-Write
-Simple React Native note-taking Application.
+Simple React Native note-taking App.
